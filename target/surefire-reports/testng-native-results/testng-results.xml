@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="57" started-at="2019-04-17T18:52:58Z" finished-at="2019-04-17T18:52:58Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="57" started-at="2019-04-17T18:52:58Z" finished-at="2019-04-17T18:52:58Z">
+      <class name="com.infosys.app.ThirdmavenclassTest">
+        <test-method status="PASS" signature="thirdtest()[pri:0, instance:com.infosys.app.ThirdmavenclassTest@668bc3d5]" name="thirdtest" duration-ms="0" started-at="2019-04-17T18:52:58Z" finished-at="2019-04-17T18:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdtest -->
+      </class> <!-- com.infosys.app.ThirdmavenclassTest -->
+      <class name="com.infosys.app.SecondmavenclassTest">
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:com.infosys.app.SecondmavenclassTest@380fb434]" name="secondTest" duration-ms="0" started-at="2019-04-17T18:52:58Z" finished-at="2019-04-17T18:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- com.infosys.app.SecondmavenclassTest -->
+      <class name="com.infosys.app.FirstmavenclassTest">
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:com.infosys.app.FirstmavenclassTest@21bcffb5]" name="FirstTest" duration-ms="9" started-at="2019-04-17T18:52:58Z" finished-at="2019-04-17T18:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+      </class> <!-- com.infosys.app.FirstmavenclassTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
