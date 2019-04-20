@@ -14,6 +14,11 @@ public class FirstmavenclassTest {
 	{
 		System.out.println("This is the first maven mobile test created by Y person");
 	}
+	@Test
+	public static void FirstTest_APITest()
+	{
+		System.out.println("This is the first maven API test created by Y person");
+	}
 	
 
 }
